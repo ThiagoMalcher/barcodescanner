@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 24 min SDK version: x86",
+    "file_": "F:\\THIAGO\\DEV-PROJECTS\\ANDROID\\barcodereader\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1424765811
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027F:\\THIAGO\\DEV-PROJECTS\\ANDROID\\barcodereader\\openCV\\.cxx\\RelWithDebInfo\\6z255283\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "F:\\THIAGO\\DEV-PROJECTS\\ANDROID\\barcodereader\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -233807334
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "F:\\THIAGO\\DEV-PROJECTS\\ANDROID\\barcodereader\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 989876761
+  }
+]
