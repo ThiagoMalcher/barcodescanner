@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //requestpermissions
-        Request.permissions(getApplicationContext());
+        Request.permissions(this);
 
         if(OpenCVLoader.initDebug()) Log.d(TAG, "SUCCESS");
         else Log.d(TAG, "FAILURE");
